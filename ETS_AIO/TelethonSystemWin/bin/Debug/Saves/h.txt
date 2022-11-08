@@ -1,0 +1,51 @@
+Created on 03/November/2022 02:59:37
+
+
+
+
+======Sponsor======
+
+
+
+khoi 1 Sponsor Id: 1111 Total Prize Value: 1000
+khoi 1 Sponsor Id: 2222 Total Prize Value: 4000
+khoi 3 Sponsor Id: 3333 Total Prize Value: 9000
+khoi4 4 Sponsor Id: 4444 Total Prize Value: 16000
+khoi 5 Sponsor Id: 5555 Total Prize Value: 0
+khoi 6 Sponsor Id: 6666 Total Prize Value: 0
+
+
+
+
+======Donor======
+
+
+
+khoi 2 DonorID:2222 Address:1 Phone:111 213-1123 Card Type:V Card Number:1234123131231231 Card Expiry:12/2222
+khoi 3 DonorID:3333 Address:1 Phone:111 213-1123 Card Type:V Card Number:1234123131231231 Card Expiry:12/2222
+
+
+
+
+======Prize======
+
+
+
+Prize ID:1111 Description:null Value:10Minimum Donation Limit:10 Original Available:100 Current Available:99 SponsorID:1111
+Prize ID:2222 Description:null Value:20Minimum Donation Limit:20 Original Available:200 Current Available:199 SponsorID:2222
+Prize ID:3333 Description:null Value:30Minimum Donation Limit:30 Original Available:300 Current Available:300 SponsorID:3333
+Prize ID:4444 Description:null Value:40Minimum Donation Limit:40 Original Available:400 Current Available:400 SponsorID:4444
+
+
+
+
+======Donation======
+
+
+
+Donation Id: 1111 Donation Date: 29/10/2022 Donor ID: 1111 Donation Amount: 10 Prize ID:1111
+Donation Id: 2222 Donation Date: 29/10/2022 Donor ID: 2222 Donation Amount: 20 Prize ID:2222
+
+
+
+

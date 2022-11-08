@@ -1,0 +1,12 @@
+C:\Lasalle\Fall2022\MTApplication\ETS\bin\Debug\ETS.dll
+C:\Lasalle\Fall2022\MTApplication\ETS\bin\Debug\ETS.pdb
+C:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.csproj.AssemblyReference.cache
+C:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.csproj.CoreCompileInputs.cache
+C:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.dll
+C:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.pdb
+E:\Lasalle\Fall2022\MTApplication\ETS\bin\Debug\ETS.dll
+E:\Lasalle\Fall2022\MTApplication\ETS\bin\Debug\ETS.pdb
+E:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.csproj.AssemblyReference.cache
+E:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.csproj.CoreCompileInputs.cache
+E:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.dll
+E:\Lasalle\Fall2022\MTApplication\ETS\obj\Debug\ETS.pdb
